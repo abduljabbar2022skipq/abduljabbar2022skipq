@@ -51,11 +51,11 @@ Languages and Tools:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HaseebUllahAbbasi)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebUllahAbbasi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabbar-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaseebUllahAbbasi&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jabbar-dev&show_icons=true&theme=dark)  
 
-![GitHub metrics](https://metrics.lecoq.io/HaseebUllahAbbasi)  
+![GitHub metrics](https://metrics.lecoq.io/jabbar-dev)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HaseebUllahAbbasi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jabbar-dev)  
 
