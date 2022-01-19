@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi there 👋, It's me Haseeb Ullah</h1>
+<h1 align="center">Hi there 👋, It's me Abdul Jabbar Shah</h1>
 
-<h3 align="center"> I am highly motivated and energetic Computer Science student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills. </h3>
+<h3 align="center"> I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills. </h3>
 
 
 
@@ -11,8 +11,8 @@ Skills: Linux | Java | Spring Boot | Spring | Git - Github | JavaScript | NodeJS
 - 🔭 I’m currently working on  **SpringBoot & Full Stack Web Development**. 
 - 👯 I’m looking to collaborate on **Java, Spring Boot, Nodejs Web Applicaiotions**  
 - 💬 Ask me about **Java & Full Stack Web Development**.  
-- 📫 How to reach me **haseebabbasi00@gmail.com**
-![Profile views](https://gpvc.arturio.dev/HaseebUllahAbbasi)  
+- 📫 How to reach me **rashdijabbar@gmail.com**
+![Profile views](https://gpvc.arturio.dev/jabbar-dev)  
 
 
 
